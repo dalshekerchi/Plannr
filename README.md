@@ -2,7 +2,7 @@
 Plannr is an organizational platform developed using Java, in the form of an Android app, that helps university students coordinate their everyday routine, from schoolwork and expenses to their personal life. Users are able to track their events and deadlines to fit their personal needs, by the means of a calendar and a to-do list (displays events, for which the user can check to complete tasks).
 
 <p align="center">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_blob_lavender.png" alt="Plannr" width="300">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_blob_lavender.png" alt="Plannr" width="300">
 </p>
 
 ## Built with
@@ -11,14 +11,14 @@ Plannr is an organizational platform developed using Java, in the form of an And
 
 ## Screenshots
 <p float="left">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_login.png" alt="Log In" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_main.png" alt="Main View" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_school.png" alt="School View" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_add_event.png" alt="Add Event" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_view_event.png" alt="View Event" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_expenses.png" alt="Expenses View" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_add_expenses.png" alt="Add Expense" width="235">
-  <img src="https://github.com/CSC207-UofT/plannr/blob/main/photos/plannr_screenshot_settings.png" alt="Settings View" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_login.png" alt="Log In" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_main.png" alt="Main View" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_school.png" alt="School View" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_add_event.png" alt="Add Event" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_view_event.png" alt="View Event" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_expenses.png" alt="Expenses View" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_add_expenses.png" alt="Add Expense" width="235">
+  <img src="https://github.com/dalshekerchi/plannr/blob/main/screenshots/plannr_screenshot_settings.png" alt="Settings View" width="235">
 </p>
 
 ## How to Run
@@ -41,8 +41,7 @@ Plannr is an organizational platform developed using Java, in the form of an And
 
 ### Launch Instructions
 To launch our app, **please open our project in Android Studio, we don't guarantee correct function if launched with
-other IDEs**. Make sure that you open the inner `plannr` directory as project, but not the root directory `plannr`
-as project ([GIF walk-through](https://imgur.com/a/e682DPB)). Ensure that Android SDK 31 is installed with build tools
+other IDEs**. Ensure that Android SDK 31 is installed with build tools
 31.0.0. If you experience an issue where build tool 31.0.0 is corrupted, change the build tool to version 30.0.2, and you
 should be able to launch our app. Additionally, you can also try to fix the corruption by following
 this [StackOverflow](https://stackoverflow.com/questions/68387270/android-studio-error-installed-build-tools-revision-31-0-0-is-corrupted)
